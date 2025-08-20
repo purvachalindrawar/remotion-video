@@ -1,0 +1,189 @@
+{
+  "title": "GPT-5 Prompt Upgrades Reel",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "frames": [
+    {
+      "frameNumber": 1,
+      "startTime": 0,
+      "endTime": 5,
+      "durationInSeconds": 5,
+      "visuals": {
+        "backgroundGradient": ["#000000", "#1a1a1a"],
+        "text": "Have you ever asked GPT-5 a question… and felt like that's it?",
+        "textColor": "#FFFFFF",
+        "textSize": "large",
+        "animations": [
+          { "type": "typewriter", "speed": 35 },
+          { "type": "glitch", "intensity": 2, "duration": 15 }
+        ]
+      },
+      "sound": { "effects": ["drone.wav"] },
+      "transitionOut": { "type": "glitch-fade", "duration": 12 }
+    },
+    {
+      "frameNumber": 2,
+      "startTime": 5,
+      "endTime": 9,
+      "durationInSeconds": 4,
+      "visuals": {
+        "backgroundGradient": ["#141E30", "#243B55"],
+        "text": "It's engineered.",
+        "textColor": "#00FFFF",
+        "textSize": "large",
+        "animations": [
+          { "type": "fade-in", "duration": 20 },
+          { "type": "glow", "intensity": 2, "duration": 20 }
+        ]
+      },
+      "sound": { "effects": ["whoosh.wav"] },
+      "transitionIn": { "type": "slide-up", "duration": 15 }
+    },
+    {
+      "frameNumber": 3,
+      "startTime": 9,
+      "endTime": 15,
+      "durationInSeconds": 6,
+      "visuals": {
+        "backgroundGradient": ["#000428", "#004e92"],
+        "text": "Great prompts aren’t asked… they’re built with strategy.",
+        "textColor": "#FFFFFF",
+        "textSize": "medium",
+        "animations": [
+          { "type": "word-by-word", "interval": 15 },
+          { "type": "zoom-in", "duration": 20 }
+        ]
+      },
+      "sound": { "effects": ["clicks.wav"] }
+    },
+    {
+      "frameNumber": 4,
+      "startTime": 15,
+      "endTime": 20,
+      "durationInSeconds": 5,
+      "visuals": {
+        "backgroundGradient": ["#8e2de2", "#4a00e0"],
+        "text": "The GPT-5 Upgrades",
+        "textColor": "#FFD700",
+        "textSize": "large",
+        "animations": [
+          { "type": "slide-up", "duration": 20 },
+          { "type": "pulse", "scale": 1.1 }
+        ]
+      },
+      "sound": { "effects": ["sweep.wav"] }
+    },
+    {
+      "frameNumber": 5,
+      "startTime": 20,
+      "endTime": 23,
+      "durationInSeconds": 3,
+      "visuals": {
+        "backgroundGradient": ["#232526", "#414345"],
+        "text": "Push Innovates — Season 1, Episode 1",
+        "textColor": "#FFFFFF",
+        "textSize": "medium",
+        "animations": [
+          { "type": "fade-in", "duration": 20 }
+        ]
+      }
+    },
+    {
+      "frameNumber": 6,
+      "startTime": 23,
+      "endTime": 32,
+      "durationInSeconds": 9,
+      "visuals": {
+        "backgroundGradient": ["#0f2027", "#203a43", "#2c5364"],
+        "text": "Upgrade 1: Make it think.\nAdd: 'Let's think step-by-step.'",
+        "textColor": "#00FFAA",
+        "textSize": "medium",
+        "animations": [
+          { "type": "typewriter", "speed": 28 },
+          { "type": "bounce", "duration": 15 }
+        ]
+      },
+      "sound": { "effects": ["pop.wav"] }
+    },
+    {
+      "frameNumber": 7,
+      "startTime": 32,
+      "endTime": 38,
+      "durationInSeconds": 6,
+      "visuals": {
+        "backgroundGradient": ["#373B44", "#4286f4"],
+        "text": "Upgrade 2: Make it a partner.\nAsk for options → pros & cons → best choice.",
+        "textColor": "#FFFFFF",
+        "textSize": "medium",
+        "animations": [
+          { "type": "word-by-word", "interval": 20 },
+          { "type": "slide-left", "duration": 18 }
+        ]
+      }
+    },
+    {
+      "frameNumber": 8,
+      "startTime": 38,
+      "endTime": 45,
+      "durationInSeconds": 7,
+      "visuals": {
+        "backgroundGradient": ["#3C3B3F", "#605C3C"],
+        "text": "Upgrade 3: Use its memory.\nIt can handle an entire book.",
+        "textColor": "#FFD700",
+        "textSize": "medium",
+        "animations": [
+          { "type": "zoom-in", "duration": 20 },
+          { "type": "glow", "intensity": 1.5 }
+        ]
+      }
+    },
+    {
+      "frameNumber": 9,
+      "startTime": 45,
+      "endTime": 52,
+      "durationInSeconds": 7,
+      "visuals": {
+        "backgroundGradient": ["#000000", "#434343"],
+        "text": "Upgrade 4: Give it a goal.\n'Plan my trip' → AI handles the rest.",
+        "textColor": "#00FFFF",
+        "textSize": "medium",
+        "animations": [
+          { "type": "fade-in", "duration": 20 },
+          { "type": "slide-right", "duration": 18 }
+        ]
+      }
+    },
+    {
+      "frameNumber": 10,
+      "startTime": 52,
+      "endTime": 56,
+      "durationInSeconds": 4,
+      "visuals": {
+        "backgroundGradient": ["#1e3c72", "#2a5298"],
+        "text": "Four upgrades that will change how you use AI.",
+        "textColor": "#FFFFFF",
+        "textSize": "medium",
+        "animations": [
+          { "type": "fade-in", "duration": 20 }
+        ]
+      }
+    },
+    {
+      "frameNumber": 11,
+      "startTime": 56,
+      "endTime": 60,
+      "durationInSeconds": 4,
+      "visuals": {
+        "backgroundGradient": ["#000000", "#0f0f0f"],
+        "text": "FOLLOW @pushinnovates",
+        "textColor": "#00FFAA",
+        "textSize": "large",
+        "animations": [
+          { "type": "pulse", "scale": 1.2, "duration": 18 },
+          { "type": "glow", "intensity": 2 }
+        ]
+      }
+    }
+  ]
+}
